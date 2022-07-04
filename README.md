@@ -45,3 +45,5 @@ func main() {
     fmt.Println("close buf")
 }
 ```
+## 感谢
+[chanx](https://github.com/smallnest/chanx) 提供灵感
